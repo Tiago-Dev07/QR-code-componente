@@ -23,7 +23,7 @@ section{
     align-items: center;
     flex-flow: column wrap;
     background-color: white;
-    padding: 15px;  
+    padding: 15px 10px;  
     border-radius: 10px;
     cursor: pointer;
 }
